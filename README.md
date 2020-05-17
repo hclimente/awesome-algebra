@@ -1,4 +1,4 @@
-# Awesome machine learning
+# 🤖 Awesome machine learning
 
 I compile here resources that gave me deeper insights into the maths behind machine learning.
 
