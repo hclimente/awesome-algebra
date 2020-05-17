@@ -48,3 +48,7 @@ I compile here resources that gave me deeper insights into the maths behind mach
 # Reference
 
 - [The Definitive Glossary of Higher Mathematical Jargon](https://mathvault.ca/math-glossary)
+- [Mathematics roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap)
+- Other (awesome) lists:
+  - [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses)
+  - [ML resources](https://sgfin.github.io/learning-resources)
