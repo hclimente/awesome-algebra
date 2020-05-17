@@ -1,6 +1,6 @@
-# Awesome maths
+# Awesome machine learning
 
-Yet another curated list of maths resources.
+Yet another curated list of machine learning resources.
 
 # Linear algebra
 
@@ -19,3 +19,13 @@ Yet another curated list of maths resources.
 
 - [A Geometrical Understanding of Matrices](http://gregorygundersen.com/blog/2018/10/24/matrices/).
 - [Everything you did and didn't know about PCA](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/).
+
+# Information theory
+
+## Start here
+
+- [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/).
+
+# Reference
+
+- [The Definitive Glossary of Higher Mathematical Jargon](https://mathvault.ca/math-glossary).
