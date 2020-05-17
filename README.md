@@ -2,13 +2,14 @@
 
 I compile here machine learning resources that were useful to me, and provided transferable intuitions.
 
-# Machine learning
+- [Where to start?](where-to-start?)
+- [Linear algebra](linear-algebra)
+- [Statistics](statistics)
+- [Information theory](information-theory)
 
-## Start here
+# Where to start?
 
 - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/). Introduction to loss functions, optimization, and some common algorithms.
-
----
 
 # Linear algebra
 
