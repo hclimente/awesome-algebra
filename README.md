@@ -2,10 +2,10 @@
 
 I compile here machine learning resources that were useful to me, and provided transferable intuitions.
 
-- [Where to start?](where-to-start?)
-- [Linear algebra](linear-algebra)
-- [Statistics](statistics)
-- [Information theory](information-theory)
+- [Where to start?](#where-to-start)
+- [Linear algebra](#linear-algebra)
+- [Statistics](#statistics)
+- [Information theory](#information-theory)
 
 # Where to start?
 
