@@ -30,6 +30,7 @@ I compile here resources that gave me deeper insights into the maths behind mach
 - [A Geometrical Understanding of Matrices](http://gregorygundersen.com/blog/2018/10/24/matrices/)
 - [Everything you did and didn't know about **PCA**](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
 - [**Dot Product**: Equivalence of Definitions](http://gregorygundersen.com/blog/2018/06/26/dot-product/)
+- [Singular Value Decomposition Part 1: Perspectives on Linear Algebra](https://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/), on how linear algebra is connected to **real world data**.
 
 # Statistics
 
