@@ -2,15 +2,11 @@
 
 I compile here resources that gave me deeper insights into the maths behind machine learning.
 
-- [Where to start?](#where-to-start)
 - [Linear algebra](#linear-algebra)
 - [Statistics](#statistics)
 - [Information theory](#information-theory)
+- [Neural networks](#neural-networks)
 - [Other reference materials](#reference)
-
-# Where to start?
-
-- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/). Introduction to loss functions, optimization, and some common algorithms.
 
 # Linear algebra
 
@@ -43,6 +39,12 @@ I compile here resources that gave me deeper insights into the maths behind mach
 ## Start here
 
 - [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
+
+# Neural networks
+
+## Start here
+
+- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/). Introduction to loss functions, optimization, and some common algorithms.
 
 ---
 
