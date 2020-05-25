@@ -48,6 +48,13 @@ I compile here resources that gave me deeper insights into the maths behind mach
 
 - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/). Introduction to loss functions, optimization, and some common algorithms.
 
+# Optimal transport
+
+## Start here
+
+- [Notes on optimal transport](https://michielstock.github.io/OptimalTransport/): a quick intro to the key concepts.
+- The 3-part series [A primer on optimal transport](https://www.youtube.com/watch?v=6iR1E6t1MMQ).
+
 ---
 
 # Reference
