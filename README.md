@@ -48,6 +48,10 @@ I compile here resources that gave me deeper insights into the maths behind mach
 
 - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/). Introduction to loss functions, optimization, and some common algorithms.
 
+## Intuitions of key concepts
+
+- [**Manifolds**: A Gentle Introduction](https://bjlkeng.github.io/posts/manifolds/)
+
 # Optimal transport
 
 ## Start here
