@@ -29,6 +29,7 @@ I compile here resources that gave me deeper insights into the maths behind mach
 - [**Singular Value Decomposition** as Simply as Possible](http://gregorygundersen.com/blog/2018/12/10/svd/)
 - [Everything you did and didn't know about **PCA**](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
 - [Singular Value Decomposition Part 1: Perspectives on Linear Algebra](https://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/), on how linear algebra is connected to **real world data**.
+- [Homomorphisms](https://www.youtube.com/watch?v=cYzp5IWqCsg) and [isomorphisms](https://www.youtube.com/watch?v=BAmWgVjSosY).
 
 # Statistics
 
