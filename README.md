@@ -53,6 +53,7 @@ I compile here resources that gave me deeper insights into the maths behind mach
 ## Intuitions of key concepts
 
 - [**Manifolds**: A Gentle Introduction](https://bjlkeng.github.io/posts/manifolds/)
+- [The **Matrix Calculus** You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
 
 # Optimal transport
 
