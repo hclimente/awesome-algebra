@@ -37,6 +37,7 @@ I compile here resources that gave me deeper insights into the maths behind mach
 ## Intuitions of key concepts
 
 - [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
+- **Causal Inference:** [Thinking Clearly About Correlations  and Causation: Graphical Causal Models  for Observational Data](https://journals.sagepub.com/doi/pdf/10.1177/2515245917745629)
 
 # Information theory
 
